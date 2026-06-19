@@ -1,6 +1,0 @@
-streamlit
-google-generativeai
-python-docx
-gTTS
-pypdf
-duckduckgo-search
